@@ -1,0 +1,46 @@
+{
+  "sepet": [
+    {
+      "url": "https://www.itopya.com/mars-mini-msi-rx-570-armor-8g-oc-amd-ryzen-5-3600-500gb-nvme-m2-ssd-16gb-ddr4-gaming-bilgisayar/",
+      "resim": "https://www.itopya.com/picture0x230/kirmizi-mini-itx-kasa-996.jpg",
+      "urunAdi": "MARS-MINI/MSI RX 570 ARMOR 8G OC/AMD RYZEN 5 3600/500GB NVMe M.2 SSD/16GB DDR4/Gaming Bilgisayar",
+      "fiyat": "8794",
+      "adet": "1"
+    },
+    {
+      "url": "https://www.itopya.com/tank-m2060-intel-i5-10600-asus-dual-geforce-rtx-2060-oc-evo-6gb-16gb-ddr4-512gb-nvme-m2-ssd-geforce-rtx-raytracing-pc/",
+      "resim": "https://www.itopya.com/picture0x230/xpg-invader-tempered-glass-usb-3-0-mid-tower-kasa.jpg",
+      "urunAdi": "TANK-M2060/INTEL i5 10600/ASUS DUAL GeForce RTX 2060 OC EVO 6GB/16GB DDR4/512GB NVMe M.2 SSD/Geforce RTX RayTracing PC",
+      "fiyat": "11384",
+      "adet": "1"
+    },
+    {
+      "url": "https://www.itopya.com/kronos-7070k-ntel-core-i7-10700k-gigabyte-geforce-rtx-3070-vision-oc-8gb-16gb-ddr4-1tb-nvme-m2-ssd-geforce-rtx-raytracing-pc/",
+      "resim": "https://www.itopya.com/picture0x230/siyah-mid-tower-kasa-18.jpg",
+      "urunAdi": "KRONOS-7070K/ntel Core i7 10700K/GIGABYTE GeForce RTX 3070 VISION OC 8GB/16GB DDR4/1TB NVMe M.2 SSD/Geforce RTX RayTracing PC",
+      "fiyat": "18679",
+      "adet": "1"
+    },
+    {
+      "url": "https://www.itopya.com/acer-aspire-3-a315-57g-intel-i5-8gb-ram-256-ssd-2gb-mx330-w10-notebook/",
+      "resim": "https://www.itopya.com/picture0x230/acer-aspire-3-a315-57g-intel-i5-8gb-ram-256-ssd-2gb-mx330-w10-notebook-2.jpg",
+      "urunAdi": "ACER ASPIRE 3 A315-57G INTEL i5 8GB RAM 256 SSD 2GB MX330 W10 NOTEBOOK",
+      "fiyat": "5999",
+      "adet": "1"
+    },
+    {
+      "url": "https://www.itopya.com/steelseries-arctis-9-pc-kablosuz-oyuncu-kulakligi/",
+      "resim": "https://www.itopya.com/picture0x230/steelseries-arctis-9-pc-kablosuz-oyuncu-kulakligi.jpg",
+      "urunAdi": "Steelseries Arctis 9 PC Kablosuz Siyah Oyuncu Kulaklığı",
+      "fiyat": "1949",
+      "adet": "1"
+    },
+    {
+      "url": "https://www.itopya.com/corsair-glaive-rgb-pro-fps-moba-18000-dpi-optik-sensor-aluminyum-gaming-mouse/",
+      "resim": "https://www.itopya.com/picture0x230/moba-aluminyum-gaming-mouse.jpg",
+      "urunAdi": "Corsair Glaive RGB Pro FPS/MOBA Alüminyum Gaming Mouse",
+      "fiyat": "429",
+      "adet": "1"
+    }
+  ]
+}
